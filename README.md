@@ -57,13 +57,17 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [ Math Magicians] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+"Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+Make simple calculations and read a random math-related quote.
 
-**[your_project__name]** is a...
+**[Math Magicians]** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
+
+ReactJS
+Css
 
 ### Tech Stack <a name="tech-stack"></a>
 
@@ -73,20 +77,6 @@ After you're finished please remove all the comments and instructions!
   <summary>Client</summary>
   <ul>
     <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
 
@@ -136,6 +126,10 @@ Example command:
 
 Clone this repository to your desired folder:
 
+https://github.com/frnega/MathMagicians/tree/setup_react-/mathmagicians
+
+start using it
+
 <!--
 Example commands:
 
@@ -162,6 +156,8 @@ Example command:
 
 To run the project, execute the following command:
 
+npm install
+
 <!--
 Example command:
 
@@ -173,6 +169,8 @@ Example command:
 ### Run tests
 
 To run tests, run the following command:
+
+npm start
 
 <!--
 Example command:
@@ -202,17 +200,9 @@ Example:
 
 > Mention all of the collaborators of this project.
 
-👤 **Author1**
+👤 **Frehiywot Nega**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@frnega](https://github.com/frnega)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
