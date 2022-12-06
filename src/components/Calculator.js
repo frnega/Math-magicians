@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import React, { useState } from 'react';
 import './Calculator.css';
 import calculate from '../logic/calculate';
@@ -15,6 +16,7 @@ const Calculator = () => {
 
   return (
     <div>
+      <p className="valueparagraph">Let's do some math!</p>
       <p className="result">
         <span>{state.total}</span>
         <span>{state.operation}</span>
@@ -42,6 +44,7 @@ const Calculator = () => {
         <button type="button" className="orangeButtons" name="=" onClick={handleEvent}>=</button>
       </div>
     </div>
+
   );
 };
 

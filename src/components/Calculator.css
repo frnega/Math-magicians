@@ -2,21 +2,36 @@
   margin: 0;
   padding: 0;
   font-weight: 500;
-  background: #f5f5f5;
 }
 
 .result {
-  background-color: #858694;
+  background-color: #424458;
   padding: 20px 10px;
   text-align: right;
-  color: rgb(160, 39, 39);
+  color: white;
+
+  /* margin-top: 30px; */
+  margin-left: 50%;
+}
+
+.valueparagraph {
+  background-color: #424458;
+  padding: 20px 10px;
+  text-align: left;
+  color: white;
+  width: 45%;
+  margin-top: 30px;
+
+  /* margin-left: 0%; */
+  font-size: 40px;
 }
 
 .calculator-app {
   display: -ms-grid;
   display: grid;
-  -ms-grid-template-columns: auto auto auto auto;
   grid-template-columns: auto auto auto auto;
+  -ms-grid-template-columns: auto auto auto auto;
+  margin-left: 50%;
 }
 
 button {
